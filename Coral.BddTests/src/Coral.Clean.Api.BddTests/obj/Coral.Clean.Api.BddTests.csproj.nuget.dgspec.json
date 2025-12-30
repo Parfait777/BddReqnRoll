@@ -1,0 +1,256 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\poc\\Coral.BddTests\\src\\Coral.Clean.Api.BddTests\\Coral.Clean.Api.BddTests.csproj": {}
+  },
+  "projects": {
+    "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Common.Api.BddTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Common.Api.BddTests.csproj",
+        "projectName": "Common.Api.BddTests",
+        "projectPath": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Common.Api.BddTests.csproj",
+        "packagesPath": "C:\\Users\\parfa\\.nuget\\packages\\",
+        "outputPath": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\parfa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/parfaitnzamba/_packaging/parfaitnzamba/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[8.8.0, )",
+              "versionCentrallyManaged": true
+            },
+            "FluentAssertions.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )",
+              "versionCentrallyManaged": true
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[4.0.2, )",
+              "versionCentrallyManaged": true
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[4.0.2, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[10.0.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[10.0.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.Extensions.Http.Polly": {
+              "target": "Package",
+              "version": "[10.0.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.Extensions.Http.Resilience": {
+              "target": "Package",
+              "version": "[10.1.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[18.0.1, )",
+              "versionCentrallyManaged": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[6.0.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[8.6.5, )",
+              "versionCentrallyManaged": true
+            },
+            "Reqnroll": {
+              "target": "Package",
+              "version": "[3.3.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Reqnroll.NUnit": {
+              "target": "Package",
+              "version": "[3.3.0, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "FluentAssertions": "8.8.0",
+            "FluentAssertions.Json": "8.0.0",
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": "10.0.1",
+            "Microsoft.Extensions.Configuration.Json": "10.0.1",
+            "Microsoft.Extensions.Http.Polly": "10.0.1",
+            "Microsoft.Extensions.Http.Resilience": "10.1.0",
+            "Microsoft.NET.Test.Sdk": "18.0.1",
+            "MSTest": "4.0.2",
+            "MSTest.TestAdapter": "4.0.2",
+            "MSTest.TestFramework": "4.0.2",
+            "NUnit3TestAdapter": "6.0.1",
+            "Polly": "8.6.5",
+            "Reqnroll": "3.3.0",
+            "Reqnroll.MSTest": "3.3.0",
+            "Reqnroll.NUnit": "3.3.0",
+            "Reqnroll.Tools.MsBuild.Generation": "3.3.0"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\poc\\Coral.BddTests\\src\\Coral.Clean.Api.BddTests\\Coral.Clean.Api.BddTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\poc\\Coral.BddTests\\src\\Coral.Clean.Api.BddTests\\Coral.Clean.Api.BddTests.csproj",
+        "projectName": "Coral.Clean.Api.BddTests",
+        "projectPath": "C:\\poc\\Coral.BddTests\\src\\Coral.Clean.Api.BddTests\\Coral.Clean.Api.BddTests.csproj",
+        "packagesPath": "C:\\Users\\parfa\\.nuget\\packages\\",
+        "outputPath": "C:\\poc\\Coral.BddTests\\src\\Coral.Clean.Api.BddTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\parfa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/parfaitnzamba/_packaging/parfaitnzamba/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Common.Api.BddTests.csproj": {
+                "projectPath": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Common.Api.BddTests.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest": {
+              "target": "Package",
+              "version": "[4.0.2, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "FluentAssertions": "8.8.0",
+            "FluentAssertions.Json": "8.0.0",
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": "10.0.1",
+            "Microsoft.Extensions.Configuration.Json": "10.0.1",
+            "Microsoft.Extensions.Http.Polly": "10.0.1",
+            "Microsoft.Extensions.Http.Resilience": "10.1.0",
+            "Microsoft.NET.Test.Sdk": "18.0.1",
+            "MSTest": "4.0.2",
+            "MSTest.TestAdapter": "4.0.2",
+            "MSTest.TestFramework": "4.0.2",
+            "NUnit3TestAdapter": "6.0.1",
+            "Polly": "8.6.5",
+            "Reqnroll": "3.3.0",
+            "Reqnroll.MSTest": "3.3.0",
+            "Reqnroll.NUnit": "3.3.0",
+            "Reqnroll.Tools.MsBuild.Generation": "3.3.0"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
