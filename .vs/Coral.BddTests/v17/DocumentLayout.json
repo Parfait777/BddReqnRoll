@@ -3,95 +3,60 @@
   "WorkspaceRootPath": "C:\\poc\\Coral.BddTests\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|c:\\poc\\coral.bddtests\\src\\common.api.bddtests\\specs\\steps\\assertsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|solutionrelative:src\\common.api.bddtests\\specs\\steps\\assertsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|c:\\poc\\coral.bddtests\\src\\common.api.bddtests\\steps\\jsonsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|solutionrelative:src\\common.api.bddtests\\steps\\jsonsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27C0F3F5-FE73-4352-9738-9168E8B97A98}|src\\FakeRESTApi.BddTests\\FakeRESTApi.BddTests.csproj|c:\\poc\\coral.bddtests\\src\\fakerestapi.bddtests\\specs\\features\\books\\create.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{27C0F3F5-FE73-4352-9738-9168E8B97A98}|src\\FakeRESTApi.BddTests\\FakeRESTApi.BddTests.csproj|solutionrelative:src\\fakerestapi.bddtests\\specs\\features\\books\\create.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{C50005CE-A0D3-EEFD-A124-27A641394DB2}|src\\Coral.Clean.Api.BddTests\\Coral.Clean.Api.BddTests.csproj|c:\\poc\\coral.bddtests\\src\\coral.clean.api.bddtests\\features\\filingvalidationerrors.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C50005CE-A0D3-EEFD-A124-27A641394DB2}|src\\Coral.Clean.Api.BddTests\\Coral.Clean.Api.BddTests.csproj|solutionrelative:src\\coral.clean.api.bddtests\\features\\filingvalidationerrors.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|c:\\poc\\coral.bddtests\\src\\common.api.bddtests\\common.api.bddtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|solutionrelative:src\\common.api.bddtests\\common.api.bddtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|c:\\poc\\coral.bddtests\\src\\common.api.bddtests\\steps\\httpsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|solutionrelative:src\\common.api.bddtests\\steps\\httpsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|c:\\poc\\coral.bddtests\\src\\common.api.bddtests\\testinfrastructure\\httpconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|solutionrelative:src\\common.api.bddtests\\testinfrastructure\\httpconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|c:\\poc\\coral.bddtests\\src\\common.api.bddtests\\steps\\authsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|solutionrelative:src\\common.api.bddtests\\steps\\authsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C50005CE-A0D3-EEFD-A124-27A641394DB2}|src\\Coral.Clean.Api.BddTests\\Coral.Clean.Api.BddTests.csproj|c:\\poc\\coral.bddtests\\src\\coral.clean.api.bddtests\\coral.clean.api.bddtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C50005CE-A0D3-EEFD-A124-27A641394DB2}|src\\Coral.Clean.Api.BddTests\\Coral.Clean.Api.BddTests.csproj|solutionrelative:src\\coral.clean.api.bddtests\\coral.clean.api.bddtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|c:\\poc\\coral.bddtests\\src\\common.api.bddtests\\support\\services\\impl\\apisender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|solutionrelative:src\\common.api.bddtests\\support\\services\\impl\\apisender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|c:\\poc\\coral.bddtests\\src\\common.api.bddtests\\specs\\hooks\\scenariohooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|solutionrelative:src\\common.api.bddtests\\specs\\hooks\\scenariohooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|c:\\poc\\coral.bddtests\\src\\common.api.bddtests\\support\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|solutionrelative:src\\common.api.bddtests\\support\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|c:\\poc\\coral.bddtests\\src\\common.api.bddtests\\specs\\steps\\httpsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|solutionrelative:src\\common.api.bddtests\\specs\\steps\\httpsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|c:\\poc\\coral.bddtests\\src\\common.api.bddtests\\support\\services\\setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|solutionrelative:src\\common.api.bddtests\\support\\services\\setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27C0F3F5-FE73-4352-9738-9168E8B97A98}|src\\FakeRESTApi.BddTests\\FakeRESTApi.BddTests.csproj|c:\\poc\\coral.bddtests\\src\\fakerestapi.bddtests\\fakerestapi.bddtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{27C0F3F5-FE73-4352-9738-9168E8B97A98}|src\\FakeRESTApi.BddTests\\FakeRESTApi.BddTests.csproj|solutionrelative:src\\fakerestapi.bddtests\\fakerestapi.bddtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|c:\\poc\\coral.bddtests\\src\\common.api.bddtests\\support\\extensions\\httpclientfactoryextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|solutionrelative:src\\common.api.bddtests\\support\\extensions\\httpclientfactoryextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|c:\\poc\\coral.bddtests\\src\\common.api.bddtests\\testinfrastructure\\services\\setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|solutionrelative:src\\common.api.bddtests\\testinfrastructure\\services\\setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|c:\\poc\\coral.bddtests\\src\\common.api.bddtests\\support\\services\\interfaces\\iapisender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|solutionrelative:src\\common.api.bddtests\\support\\services\\interfaces\\iapisender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|c:\\poc\\coral.bddtests\\src\\common.api.bddtests\\testinfrastructure\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|solutionrelative:src\\common.api.bddtests\\testinfrastructure\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|c:\\poc\\coral.bddtests\\src\\common.api.bddtests\\support\\helpers\\jsonhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|solutionrelative:src\\common.api.bddtests\\support\\helpers\\jsonhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|c:\\poc\\coral.bddtests\\src\\common.api.bddtests\\specs\\steps\\authsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|solutionrelative:src\\common.api.bddtests\\specs\\steps\\authsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|c:\\poc\\coral.bddtests\\src\\common.api.bddtests\\steps\\assertsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|solutionrelative:src\\common.api.bddtests\\steps\\assertsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27C0F3F5-FE73-4352-9738-9168E8B97A98}|src\\FakeRESTApi.BddTests\\FakeRESTApi.BddTests.csproj|c:\\poc\\coral.bddtests\\src\\fakerestapi.bddtests\\reqnroll.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{27C0F3F5-FE73-4352-9738-9168E8B97A98}|src\\FakeRESTApi.BddTests\\FakeRESTApi.BddTests.csproj|solutionrelative:src\\fakerestapi.bddtests\\reqnroll.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|c:\\poc\\coral.bddtests\\src\\common.api.bddtests\\hooks\\scenariohooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|solutionrelative:src\\common.api.bddtests\\hooks\\scenariohooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C50005CE-A0D3-EEFD-A124-27A641394DB2}|src\\Coral.Clean.Api.BddTests\\Coral.Clean.Api.BddTests.csproj|c:\\poc\\coral.bddtests\\src\\coral.clean.api.bddtests\\reqnroll.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C50005CE-A0D3-EEFD-A124-27A641394DB2}|src\\Coral.Clean.Api.BddTests\\Coral.Clean.Api.BddTests.csproj|solutionrelative:src\\coral.clean.api.bddtests\\reqnroll.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{C50005CE-A0D3-EEFD-A124-27A641394DB2}|src\\Coral.Clean.Api.BddTests\\Coral.Clean.Api.BddTests.csproj|c:\\poc\\coral.bddtests\\src\\coral.clean.api.bddtests\\resources\\valid-far-filing-submission-request.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C50005CE-A0D3-EEFD-A124-27A641394DB2}|src\\Coral.Clean.Api.BddTests\\Coral.Clean.Api.BddTests.csproj|solutionrelative:src\\coral.clean.api.bddtests\\resources\\valid-far-filing-submission-request.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\parfa\\.nuget\\packages\\reqnroll.tools.msbuild.generation\\3.3.0\\build\\Reqnroll.Tools.MsBuild.Generation.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|c:\\poc\\coral.bddtests\\src\\common.api.bddtests\\testinfrastructure\\models\\authoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|solutionrelative:src\\common.api.bddtests\\testinfrastructure\\models\\authoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|c:\\poc\\coral.bddtests\\src\\common.api.bddtests\\testinfrastructure\\models\\apioptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|solutionrelative:src\\common.api.bddtests\\testinfrastructure\\models\\apioptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27C0F3F5-FE73-4352-9738-9168E8B97A98}|src\\FakeRESTApi.BddTests\\FakeRESTApi.BddTests.csproj|c:\\poc\\coral.bddtests\\src\\fakerestapi.bddtests\\appsettings.tests.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{27C0F3F5-FE73-4352-9738-9168E8B97A98}|src\\FakeRESTApi.BddTests\\FakeRESTApi.BddTests.csproj|solutionrelative:src\\fakerestapi.bddtests\\appsettings.tests.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C50005CE-A0D3-EEFD-A124-27A641394DB2}|src\\Coral.Clean.Api.BddTests\\Coral.Clean.Api.BddTests.csproj|c:\\poc\\coral.bddtests\\src\\coral.clean.api.bddtests\\appsettings.tests.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C50005CE-A0D3-EEFD-A124-27A641394DB2}|src\\Coral.Clean.Api.BddTests\\Coral.Clean.Api.BddTests.csproj|solutionrelative:src\\coral.clean.api.bddtests\\appsettings.tests.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|c:\\poc\\coral.bddtests\\src\\common.api.bddtests\\testinfrastructure\\extensions\\httpclientfactoryextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|solutionrelative:src\\common.api.bddtests\\testinfrastructure\\extensions\\httpclientfactoryextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|c:\\poc\\coral.bddtests\\src\\common.api.bddtests\\testinfrastructure\\helpers\\jsonhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|solutionrelative:src\\common.api.bddtests\\testinfrastructure\\helpers\\jsonhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|c:\\poc\\coral.bddtests\\src\\common.api.bddtests\\testinfrastructure\\models\\apikeyoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|solutionrelative:src\\common.api.bddtests\\testinfrastructure\\models\\apikeyoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|c:\\poc\\coral.bddtests\\src\\common.api.bddtests\\testinfrastructure\\services\\apitestcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|solutionrelative:src\\common.api.bddtests\\testinfrastructure\\services\\apitestcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|c:\\poc\\coral.bddtests\\src\\common.api.bddtests\\testinfrastructure\\enums\\authmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|solutionrelative:src\\common.api.bddtests\\testinfrastructure\\enums\\authmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|c:\\poc\\coral.bddtests\\src\\common.api.bddtests\\support\\enums\\authmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7EC4F1-5BEF-40CA-80A9-E086EF30EFB5}|src\\Common.Api.BddTests\\Common.Api.BddTests.csproj|solutionrelative:src\\common.api.bddtests\\support\\enums\\authmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -101,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -112,311 +77,181 @@
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.feature",
-              "DocumentMoniker": "C:\\poc\\Coral.BddTests\\src\\FakeRESTApi.BddTests\\Specs\\Features\\Books\\Create.feature",
-              "RelativeDocumentMoniker": "src\\FakeRESTApi.BddTests\\Specs\\Features\\Books\\Create.feature",
-              "ToolTip": "C:\\poc\\Coral.BddTests\\src\\FakeRESTApi.BddTests\\Specs\\Features\\Books\\Create.feature",
-              "RelativeToolTip": "src\\FakeRESTApi.BddTests\\Specs\\Features\\Books\\Create.feature",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
-              "WhenOpened": "2025-12-30T06:16:43.172Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ScenarioHooks.cs",
-              "DocumentMoniker": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Specs\\Hooks\\ScenarioHooks.cs",
-              "RelativeDocumentMoniker": "src\\Common.Api.BddTests\\Specs\\Hooks\\ScenarioHooks.cs",
-              "ToolTip": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Specs\\Hooks\\ScenarioHooks.cs",
-              "RelativeToolTip": "src\\Common.Api.BddTests\\Specs\\Hooks\\ScenarioHooks.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T03:40:46.495Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Coral.Clean.Api.BddTests.csproj",
-              "DocumentMoniker": "C:\\poc\\Coral.BddTests\\src\\Coral.Clean.Api.BddTests\\Coral.Clean.Api.BddTests.csproj",
-              "RelativeDocumentMoniker": "src\\Coral.Clean.Api.BddTests\\Coral.Clean.Api.BddTests.csproj",
-              "ToolTip": "C:\\poc\\Coral.BddTests\\src\\Coral.Clean.Api.BddTests\\Coral.Clean.Api.BddTests.csproj",
-              "RelativeToolTip": "src\\Coral.Clean.Api.BddTests\\Coral.Clean.Api.BddTests.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-30T03:15:47.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HttpConstants.cs",
-              "DocumentMoniker": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\TestInfrastructure\\HttpConstants.cs",
-              "RelativeDocumentMoniker": "src\\Common.Api.BddTests\\TestInfrastructure\\HttpConstants.cs",
-              "ToolTip": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\TestInfrastructure\\HttpConstants.cs",
-              "RelativeToolTip": "src\\Common.Api.BddTests\\TestInfrastructure\\HttpConstants.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T04:40:43.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Common.Api.BddTests.csproj",
-              "DocumentMoniker": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Common.Api.BddTests.csproj",
-              "RelativeDocumentMoniker": "src\\Common.Api.BddTests\\Common.Api.BddTests.csproj",
-              "ToolTip": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Common.Api.BddTests.csproj",
-              "RelativeToolTip": "src\\Common.Api.BddTests\\Common.Api.BddTests.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-30T03:04:55.577Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AssertSteps.cs",
-              "DocumentMoniker": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Specs\\Steps\\AssertSteps.cs",
-              "RelativeDocumentMoniker": "src\\Common.Api.BddTests\\Specs\\Steps\\AssertSteps.cs",
-              "ToolTip": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Specs\\Steps\\AssertSteps.cs",
-              "RelativeToolTip": "src\\Common.Api.BddTests\\Specs\\Steps\\AssertSteps.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAMwBUAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T04:13:43.601Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HttpSteps.cs",
-              "DocumentMoniker": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Specs\\Steps\\HttpSteps.cs",
-              "RelativeDocumentMoniker": "src\\Common.Api.BddTests\\Specs\\Steps\\HttpSteps.cs",
-              "ToolTip": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Specs\\Steps\\HttpSteps.cs",
-              "RelativeToolTip": "src\\Common.Api.BddTests\\Specs\\Steps\\HttpSteps.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAtwBgAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T04:04:34.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Setup.cs",
-              "DocumentMoniker": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\TestInfrastructure\\Services\\Setup.cs",
-              "RelativeDocumentMoniker": "src\\Common.Api.BddTests\\TestInfrastructure\\Services\\Setup.cs",
-              "ToolTip": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\TestInfrastructure\\Services\\Setup.cs",
-              "RelativeToolTip": "src\\Common.Api.BddTests\\TestInfrastructure\\Services\\Setup.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAADgvwsAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T03:52:21.304Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FakeRESTApi.BddTests.csproj",
-              "DocumentMoniker": "C:\\poc\\Coral.BddTests\\src\\FakeRESTApi.BddTests\\FakeRESTApi.BddTests.csproj",
-              "RelativeDocumentMoniker": "src\\FakeRESTApi.BddTests\\FakeRESTApi.BddTests.csproj",
-              "ToolTip": "C:\\poc\\Coral.BddTests\\src\\FakeRESTApi.BddTests\\FakeRESTApi.BddTests.csproj",
-              "RelativeToolTip": "src\\FakeRESTApi.BddTests\\FakeRESTApi.BddTests.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-30T04:53:30.686Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ServiceCollectionExtensions.cs",
-              "DocumentMoniker": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\TestInfrastructure\\Extensions\\ServiceCollectionExtensions.cs",
-              "RelativeDocumentMoniker": "src\\Common.Api.BddTests\\TestInfrastructure\\Extensions\\ServiceCollectionExtensions.cs",
-              "ToolTip": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\TestInfrastructure\\Extensions\\ServiceCollectionExtensions.cs",
-              "RelativeToolTip": "src\\Common.Api.BddTests\\TestInfrastructure\\Extensions\\ServiceCollectionExtensions.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAEwBoAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T04:18:45.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AuthSteps.cs",
-              "DocumentMoniker": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Specs\\Steps\\AuthSteps.cs",
-              "RelativeDocumentMoniker": "src\\Common.Api.BddTests\\Specs\\Steps\\AuthSteps.cs",
-              "ToolTip": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Specs\\Steps\\AuthSteps.cs",
-              "RelativeToolTip": "src\\Common.Api.BddTests\\Specs\\Steps\\AuthSteps.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAawA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T04:00:39.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "reqnroll.json",
-              "DocumentMoniker": "C:\\poc\\Coral.BddTests\\src\\FakeRESTApi.BddTests\\reqnroll.json",
-              "RelativeDocumentMoniker": "src\\FakeRESTApi.BddTests\\reqnroll.json",
-              "ToolTip": "C:\\poc\\Coral.BddTests\\src\\FakeRESTApi.BddTests\\reqnroll.json",
-              "RelativeToolTip": "src\\FakeRESTApi.BddTests\\reqnroll.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-30T05:42:04.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "reqnroll.json",
-              "DocumentMoniker": "C:\\poc\\Coral.BddTests\\src\\Coral.Clean.Api.BddTests\\reqnroll.json",
-              "RelativeDocumentMoniker": "src\\Coral.Clean.Api.BddTests\\reqnroll.json",
-              "ToolTip": "C:\\poc\\Coral.BddTests\\src\\Coral.Clean.Api.BddTests\\reqnroll.json",
-              "RelativeToolTip": "src\\Coral.Clean.Api.BddTests\\reqnroll.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-30T03:24:54.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Reqnroll.Tools.MsBuild.Generation.targets",
-              "DocumentMoniker": "C:\\Users\\parfa\\.nuget\\packages\\reqnroll.tools.msbuild.generation\\3.3.0\\build\\Reqnroll.Tools.MsBuild.Generation.targets",
-              "RelativeDocumentMoniker": "..\\..\\Users\\parfa\\.nuget\\packages\\reqnroll.tools.msbuild.generation\\3.3.0\\build\\Reqnroll.Tools.MsBuild.Generation.targets",
-              "ToolTip": "C:\\Users\\parfa\\.nuget\\packages\\reqnroll.tools.msbuild.generation\\3.3.0\\build\\Reqnroll.Tools.MsBuild.Generation.targets",
-              "RelativeToolTip": "..\\..\\Users\\parfa\\.nuget\\packages\\reqnroll.tools.msbuild.generation\\3.3.0\\build\\Reqnroll.Tools.MsBuild.Generation.targets",
-              "ViewState": "AgIAALMAAAAAAAAAAAAhwKIAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-12-30T05:49:59.33Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "appsettings.tests.json",
-              "DocumentMoniker": "C:\\poc\\Coral.BddTests\\src\\Coral.Clean.Api.BddTests\\appsettings.tests.json",
-              "RelativeDocumentMoniker": "src\\Coral.Clean.Api.BddTests\\appsettings.tests.json",
-              "ToolTip": "C:\\poc\\Coral.BddTests\\src\\Coral.Clean.Api.BddTests\\appsettings.tests.json",
-              "RelativeToolTip": "src\\Coral.Clean.Api.BddTests\\appsettings.tests.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-30T03:27:46.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "appsettings.tests.json",
-              "DocumentMoniker": "C:\\poc\\Coral.BddTests\\src\\FakeRESTApi.BddTests\\appsettings.tests.json",
-              "RelativeDocumentMoniker": "src\\FakeRESTApi.BddTests\\appsettings.tests.json",
-              "ToolTip": "C:\\poc\\Coral.BddTests\\src\\FakeRESTApi.BddTests\\appsettings.tests.json",
-              "RelativeToolTip": "src\\FakeRESTApi.BddTests\\appsettings.tests.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-30T05:01:47.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AuthOptions.cs",
-              "DocumentMoniker": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\TestInfrastructure\\Models\\AuthOptions.cs",
-              "RelativeDocumentMoniker": "src\\Common.Api.BddTests\\TestInfrastructure\\Models\\AuthOptions.cs",
-              "ToolTip": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\TestInfrastructure\\Models\\AuthOptions.cs",
-              "RelativeToolTip": "src\\Common.Api.BddTests\\TestInfrastructure\\Models\\AuthOptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "JsonSteps.cs",
+              "DocumentMoniker": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Steps\\JsonSteps.cs",
+              "RelativeDocumentMoniker": "src\\Common.Api.BddTests\\Steps\\JsonSteps.cs",
+              "ToolTip": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Steps\\JsonSteps.cs",
+              "RelativeToolTip": "src\\Common.Api.BddTests\\Steps\\JsonSteps.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T03:21:01.455Z",
+              "WhenOpened": "2026-01-20T05:24:02.138Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ApiOptions.cs",
-              "DocumentMoniker": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\TestInfrastructure\\Models\\ApiOptions.cs",
-              "RelativeDocumentMoniker": "src\\Common.Api.BddTests\\TestInfrastructure\\Models\\ApiOptions.cs",
-              "ToolTip": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\TestInfrastructure\\Models\\ApiOptions.cs",
-              "RelativeToolTip": "src\\Common.Api.BddTests\\TestInfrastructure\\Models\\ApiOptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "HttpSteps.cs",
+              "DocumentMoniker": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Steps\\HttpSteps.cs",
+              "RelativeDocumentMoniker": "src\\Common.Api.BddTests\\Steps\\HttpSteps.cs",
+              "ToolTip": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Steps\\HttpSteps.cs",
+              "RelativeToolTip": "src\\Common.Api.BddTests\\Steps\\HttpSteps.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T03:33:59.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T04:09:38.262Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 1,
+              "Title": "FilingValidationErrors.feature",
+              "DocumentMoniker": "C:\\poc\\Coral.BddTests\\src\\Coral.Clean.Api.BddTests\\Features\\FilingValidationErrors.feature",
+              "RelativeDocumentMoniker": "src\\Coral.Clean.Api.BddTests\\Features\\FilingValidationErrors.feature",
+              "ToolTip": "C:\\poc\\Coral.BddTests\\src\\Coral.Clean.Api.BddTests\\Features\\FilingValidationErrors.feature",
+              "RelativeToolTip": "src\\Coral.Clean.Api.BddTests\\Features\\FilingValidationErrors.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-01-20T04:22:28.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthSteps.cs",
+              "DocumentMoniker": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Steps\\AuthSteps.cs",
+              "RelativeDocumentMoniker": "src\\Common.Api.BddTests\\Steps\\AuthSteps.cs",
+              "ToolTip": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Steps\\AuthSteps.cs",
+              "RelativeToolTip": "src\\Common.Api.BddTests\\Steps\\AuthSteps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T04:33:35.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiSender.cs",
+              "DocumentMoniker": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Support\\Services\\Impl\\ApiSender.cs",
+              "RelativeDocumentMoniker": "src\\Common.Api.BddTests\\Support\\Services\\Impl\\ApiSender.cs",
+              "ToolTip": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Support\\Services\\Impl\\ApiSender.cs",
+              "RelativeToolTip": "src\\Common.Api.BddTests\\Support\\Services\\Impl\\ApiSender.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T04:59:44.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Support\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "src\\Common.Api.BddTests\\Support\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Support\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "src\\Common.Api.BddTests\\Support\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T05:08:56.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Setup.cs",
+              "DocumentMoniker": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Support\\Services\\Setup.cs",
+              "RelativeDocumentMoniker": "src\\Common.Api.BddTests\\Support\\Services\\Setup.cs",
+              "ToolTip": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Support\\Services\\Setup.cs",
+              "RelativeToolTip": "src\\Common.Api.BddTests\\Support\\Services\\Setup.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwCAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T04:34:41.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "HttpClientFactoryExtensions.cs",
-              "DocumentMoniker": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\TestInfrastructure\\Extensions\\HttpClientFactoryExtensions.cs",
-              "RelativeDocumentMoniker": "src\\Common.Api.BddTests\\TestInfrastructure\\Extensions\\HttpClientFactoryExtensions.cs",
-              "ToolTip": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\TestInfrastructure\\Extensions\\HttpClientFactoryExtensions.cs",
-              "RelativeToolTip": "src\\Common.Api.BddTests\\TestInfrastructure\\Extensions\\HttpClientFactoryExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Support\\Extensions\\HttpClientFactoryExtensions.cs",
+              "RelativeDocumentMoniker": "src\\Common.Api.BddTests\\Support\\Extensions\\HttpClientFactoryExtensions.cs",
+              "ToolTip": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Support\\Extensions\\HttpClientFactoryExtensions.cs",
+              "RelativeToolTip": "src\\Common.Api.BddTests\\Support\\Extensions\\HttpClientFactoryExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T04:39:28.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T05:05:51.889Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 8,
+              "Title": "IApiSender.cs",
+              "DocumentMoniker": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Support\\Services\\Interfaces\\IApiSender.cs",
+              "RelativeDocumentMoniker": "src\\Common.Api.BddTests\\Support\\Services\\Interfaces\\IApiSender.cs",
+              "ToolTip": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Support\\Services\\Interfaces\\IApiSender.cs",
+              "RelativeToolTip": "src\\Common.Api.BddTests\\Support\\Services\\Interfaces\\IApiSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T04:59:03.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "JsonHelpers.cs",
-              "DocumentMoniker": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\TestInfrastructure\\Helpers\\JsonHelpers.cs",
-              "RelativeDocumentMoniker": "src\\Common.Api.BddTests\\TestInfrastructure\\Helpers\\JsonHelpers.cs",
-              "ToolTip": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\TestInfrastructure\\Helpers\\JsonHelpers.cs",
-              "RelativeToolTip": "src\\Common.Api.BddTests\\TestInfrastructure\\Helpers\\JsonHelpers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Support\\Helpers\\JsonHelpers.cs",
+              "RelativeDocumentMoniker": "src\\Common.Api.BddTests\\Support\\Helpers\\JsonHelpers.cs",
+              "ToolTip": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Support\\Helpers\\JsonHelpers.cs",
+              "RelativeToolTip": "src\\Common.Api.BddTests\\Support\\Helpers\\JsonHelpers.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAIEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T03:21:21.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T04:49:16.261Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ApiKeyOptions.cs",
-              "DocumentMoniker": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\TestInfrastructure\\Models\\ApiKeyOptions.cs",
-              "RelativeDocumentMoniker": "src\\Common.Api.BddTests\\TestInfrastructure\\Models\\ApiKeyOptions.cs",
-              "ToolTip": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\TestInfrastructure\\Models\\ApiKeyOptions.cs",
-              "RelativeToolTip": "src\\Common.Api.BddTests\\TestInfrastructure\\Models\\ApiKeyOptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "AssertSteps.cs",
+              "DocumentMoniker": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Steps\\AssertSteps.cs",
+              "RelativeDocumentMoniker": "src\\Common.Api.BddTests\\Steps\\AssertSteps.cs",
+              "ToolTip": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Steps\\AssertSteps.cs",
+              "RelativeToolTip": "src\\Common.Api.BddTests\\Steps\\AssertSteps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T03:34:33.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T04:33:52.375Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 11,
+              "Title": "ScenarioHooks.cs",
+              "DocumentMoniker": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Hooks\\ScenarioHooks.cs",
+              "RelativeDocumentMoniker": "src\\Common.Api.BddTests\\Hooks\\ScenarioHooks.cs",
+              "ToolTip": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Hooks\\ScenarioHooks.cs",
+              "RelativeToolTip": "src\\Common.Api.BddTests\\Hooks\\ScenarioHooks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T04:35:13.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "valid-FAR-filing-submission-request.json",
+              "DocumentMoniker": "C:\\poc\\Coral.BddTests\\src\\Coral.Clean.Api.BddTests\\Resources\\valid-FAR-filing-submission-request.json",
+              "RelativeDocumentMoniker": "src\\Coral.Clean.Api.BddTests\\Resources\\valid-FAR-filing-submission-request.json",
+              "ToolTip": "C:\\poc\\Coral.BddTests\\src\\Coral.Clean.Api.BddTests\\Resources\\valid-FAR-filing-submission-request.json",
+              "RelativeToolTip": "src\\Coral.Clean.Api.BddTests\\Resources\\valid-FAR-filing-submission-request.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-20T04:29:23.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "AuthMode.cs",
-              "DocumentMoniker": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\TestInfrastructure\\Enums\\AuthMode.cs",
-              "RelativeDocumentMoniker": "src\\Common.Api.BddTests\\TestInfrastructure\\Enums\\AuthMode.cs",
-              "ToolTip": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\TestInfrastructure\\Enums\\AuthMode.cs",
-              "RelativeToolTip": "src\\Common.Api.BddTests\\TestInfrastructure\\Enums\\AuthMode.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAsAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Support\\Enums\\AuthMode.cs",
+              "RelativeDocumentMoniker": "src\\Common.Api.BddTests\\Support\\Enums\\AuthMode.cs",
+              "ToolTip": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\Support\\Enums\\AuthMode.cs",
+              "RelativeToolTip": "src\\Common.Api.BddTests\\Support\\Enums\\AuthMode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T03:32:08.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T04:21:33.113Z"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ApiTestContext.cs",
-              "DocumentMoniker": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\TestInfrastructure\\Services\\ApiTestContext.cs",
-              "RelativeDocumentMoniker": "src\\Common.Api.BddTests\\TestInfrastructure\\Services\\ApiTestContext.cs",
-              "ToolTip": "C:\\poc\\Coral.BddTests\\src\\Common.Api.BddTests\\TestInfrastructure\\Services\\ApiTestContext.cs",
-              "RelativeToolTip": "src\\Common.Api.BddTests\\TestInfrastructure\\Services\\ApiTestContext.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T03:20:48.638Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }
