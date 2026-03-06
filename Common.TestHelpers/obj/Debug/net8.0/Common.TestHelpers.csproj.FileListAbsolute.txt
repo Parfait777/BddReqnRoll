@@ -1,0 +1,11 @@
+C:\poc\Coral.BddTests\src\Common.TestHelpers\obj\Debug\net8.0\Common.TestHelpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\poc\Coral.BddTests\src\Common.TestHelpers\obj\Debug\net8.0\Common.TestHelpers.AssemblyInfoInputs.cache
+C:\poc\Coral.BddTests\src\Common.TestHelpers\obj\Debug\net8.0\Common.TestHelpers.AssemblyInfo.cs
+C:\poc\Coral.BddTests\src\Common.TestHelpers\obj\Debug\net8.0\Common.TestHelpers.csproj.CoreCompileInputs.cache
+C:\poc\Coral.BddTests\src\Common.TestHelpers\bin\Debug\net8.0\Common.TestHelpers.deps.json
+C:\poc\Coral.BddTests\src\Common.TestHelpers\bin\Debug\net8.0\Common.TestHelpers.dll
+C:\poc\Coral.BddTests\src\Common.TestHelpers\bin\Debug\net8.0\Common.TestHelpers.pdb
+C:\poc\Coral.BddTests\src\Common.TestHelpers\obj\Debug\net8.0\Common.TestHelpers.dll
+C:\poc\Coral.BddTests\src\Common.TestHelpers\obj\Debug\net8.0\refint\Common.TestHelpers.dll
+C:\poc\Coral.BddTests\src\Common.TestHelpers\obj\Debug\net8.0\Common.TestHelpers.pdb
+C:\poc\Coral.BddTests\src\Common.TestHelpers\obj\Debug\net8.0\ref\Common.TestHelpers.dll
