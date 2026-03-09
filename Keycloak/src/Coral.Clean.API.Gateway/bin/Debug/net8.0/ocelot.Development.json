@@ -1,0 +1,79 @@
+{
+  "Routes": [
+    {
+      "SwaggerKey": "cima-public-api-v1",
+      "UpstreamPathTemplate": "/errors/{everything}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DelegatingHandlers": [ "ApiKeyToTokenDelegatingHandler" ],
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7266
+        }
+      ],
+      "DownstreamPathTemplate": "/errors/{everything}"
+    },
+    {
+      "SwaggerKey": "cima-public-api-v1",
+      "UpstreamPathTemplate": "/api/v1/filings/{everything}",
+      "UpstreamHttpMethod": [ "POST", "GET" ],
+      "DelegatingHandlers": [ "ApiKeyToTokenDelegatingHandler" ],
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7266
+        }
+      ],
+      "DownstreamPathTemplate": "/api/v1/filings/{everything}"
+    },
+    {
+      "SwaggerKey": "cima-public-api-v1",
+      "UpstreamPathTemplate": "/health/{everything}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7155
+        }
+      ],
+      "DownstreamPathTemplate": "/health/{everything}"
+    },
+    {
+      "SwaggerKey": "cima-public-api-v1",
+      "UpstreamPathTemplate": "/api/v1/Lookups/{everything}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DelegatingHandlers": [ "ApiKeyToTokenDelegatingHandler" ],
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7266
+        }
+      ],
+      "DownstreamPathTemplate": "/api/v1/Lookups/{everything}"
+    }
+  ],
+  "SwaggerEndPoints": [
+    {
+      "Key": "cima-public-api-v1",
+      "Config": [
+        {
+          "Name": "CIMA Public API",
+          "Version": "v1",
+          "Url": "https://localhost:7266/swagger/v1/swagger.json"
+        },
+        {
+          "Name": "CIMA Public API Gateway",
+          "Version": "v1",
+          "Url": "https://localhost:7155/swagger/v1/swagger.json"
+        }
+      ]
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "https://localhost:7155"
+  }
+}

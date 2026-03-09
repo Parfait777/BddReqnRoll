@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "src\\Coral.Clean.API\\Coral.Clean.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "src\\Coral.Clean.API.Gateway\\Coral.Clean.API.Gateway.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

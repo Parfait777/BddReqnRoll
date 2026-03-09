@@ -1,0 +1,24 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "CIMA Public API Gateway",
+    "description": "CIMA Public API Gateway endpoints (health, diagnostics, etc.)",
+    "version": "v1"
+  },
+  "paths": { },
+  "components": {
+    "securitySchemes": {
+      "ClientId": {
+        "type": "apiKey",
+        "description": "Client identifier used for rate limiting.",
+        "name": "X-Client-Id",
+        "in": "header"
+      }
+    }
+  },
+  "security": [
+    {
+      "ClientId": [ ]
+    }
+  ]
+}

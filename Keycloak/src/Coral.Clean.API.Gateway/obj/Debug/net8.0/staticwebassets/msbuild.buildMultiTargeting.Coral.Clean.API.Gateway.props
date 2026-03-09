@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Coral.Clean.API.Gateway.props" />
+</Project>
